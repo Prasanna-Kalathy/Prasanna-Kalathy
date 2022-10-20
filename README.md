@@ -27,6 +27,6 @@
 </p>
 
 <div align="center">
-<img align="center" width="40%" src="https://media1.giphy.com/media/LGI3em559HcrlzZxyJ/giphy.gif" />
+<!--img align="center" width="40%" src="https://media1.giphy.com/media/LGI3em559HcrlzZxyJ/giphy.gif" /-->
 <img align="center" width="30%" src="https://media0.giphy.com/media/EIiJp9cQ3GeEU/giphy.webp" />
 </div>
