@@ -23,11 +23,11 @@
 </div>
 
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Kalathy&theme=radical&hide_border=true" /> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Kalathy&layout=compact&theme=chartreuse-dark&hide_border=true" /> 
 
 <br>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Kalathy&theme=radical&show_icons=true&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Kalathy&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
 
 <div align="center">
 <!--img align="center" width="40%" src="https://media1.giphy.com/media/LGI3em559HcrlzZxyJ/giphy.gif" /-->
