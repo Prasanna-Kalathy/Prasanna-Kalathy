@@ -21,10 +21,13 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prasanna-Kalathy&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 </div>
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Kalathy&theme=radical&hide_border=true" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Kalathy&theme=radical&show_icons=true&hide_border=true"/>
-</p>
+
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Kalathy&theme=radical&hide_border=true" /> 
+
+<br>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Kalathy&theme=radical&show_icons=true&hide_border=true"/>
 
 <div align="center">
 <!--img align="center" width="40%" src="https://media1.giphy.com/media/LGI3em559HcrlzZxyJ/giphy.gif" /-->
