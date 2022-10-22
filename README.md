@@ -8,7 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannakalathy)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white)](https://github.com/Prasanna-Kalathy/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prasanna-Kalathy/)
+
 
 <div align="center">
 
@@ -21,7 +21,6 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prasanna-Kalathy&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 </div>
-
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Kalathy&layout=compact&theme=chartreuse-dark&hide_border=true" /> 
 
