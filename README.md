@@ -30,13 +30,26 @@
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Kalathy&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
 
-<h3 align="center">Languages:</h3>
-<p align="center"> 
-<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"" alt="JAVA" width="70" height="70"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg" alt="JavaScript" width="70" height="70"/> </a> 
-</p>
- 
+
+<table>
+    <tr>
+      <th>Languages</th>
+      <th>Databases</th>
+      <th>Tools</th>
+    </tr>
+    <tr>
+      <td><a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"" alt="JAVA" width="70" height="70"/> </a>
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg" alt="JavaScript" width="70" height="70"/> </a> 
+  </td>
+      <td>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="70" height="70"/> </a> 
+  </td>
+      <td><a href="https://vscode.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="80" height="80"/> </a>
+       <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="80" height="80"/> </a> 
+       </td>
+    </tr>
+  </table> 
  
 <div align="center">
 <!--img align="center" width="40%" src="https://media1.giphy.com/media/LGI3em559HcrlzZxyJ/giphy.gif" /-->
