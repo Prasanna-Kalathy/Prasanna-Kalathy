@@ -6,10 +6,13 @@
 **I'm [Prasanna Kalathy](https://github.com/Prasanna-Kalathy/)**
 <br> 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannakalathy)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white)](https://github.com/Prasanna-Kalathy/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://github.com/Prasanna-Kalathy/) 
-[![Instagram Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://github.com/Prasanna-Kalathy/)  
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannakalathy)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Prasanna-Kalathy/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/Prasanna-Kalathy/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Prasanna-Kalathy/)  
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/Prasanna-Kalathy/)
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://github.com/Prasanna-Kalathy/) 
+[![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://github.com/Prasanna-Kalathy/) 
 
 
 <div align="center">
