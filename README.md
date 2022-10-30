@@ -2,8 +2,6 @@
 
 # Hey<img src="https://media.giphy.com/media/ZCGiYQPSdpcB2ks3pG/giphy.gif" width="50">
 
-
-**I'm [Prasanna Kalathy](https://github.com/Prasanna-Kalathy/)**
 <br> 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannakalathy)
@@ -55,8 +53,18 @@
        </td>
     </tr>
   </table> 
- 
+
+<div align="left">       
+       
+I'm Prasanna Kalathy, a software engineer.
+
+- I’m currently working on Dynamic Web apps
+- I’m currently learning JavaServerPages and Servlets.
+- Ask me about: tech, , anime
+- Languages: Java, Python3, JavaScript
+       </div>      
+       
 <div align="center">
 <!--img align="center" width="40%" src="https://media1.giphy.com/media/LGI3em559HcrlzZxyJ/giphy.gif" /-->
 <img align="center" width="30%" src="https://media0.giphy.com/media/EIiJp9cQ3GeEU/giphy.webp" />
-</div>
+</div>       
