@@ -53,16 +53,7 @@
        </td>
     </tr>
   </table> 
-
-<div align="left">       
-       
-I'm Prasanna Kalathy, a software engineer.
-
-- I’m currently working on Dynamic Web apps
-- I’m currently learning JavaServerPages and Servlets.
-- Ask me about: tech, , anime
-- Languages: Java, Python3, JavaScript
-       </div>      
+     
        
 <div align="center">
 <!--img align="center" width="40%" src="https://media1.giphy.com/media/LGI3em559HcrlzZxyJ/giphy.gif" /-->
