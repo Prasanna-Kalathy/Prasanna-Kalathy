@@ -2,8 +2,9 @@
 
 # Hey<img src="https://media.giphy.com/media/ZCGiYQPSdpcB2ks3pG/giphy.gif" width="50">
 
+![snake gif](https://github.com/Prasanna-Kalathy/Prasanna-Kalathy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 <br> 
-
+## Connect with me 👇🏻
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannakalathy)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Prasanna-Kalathy/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/Prasanna-Kalathy/) 
@@ -15,9 +16,7 @@
 
 <div align="center">
 
-## Number Of Visitors   
-
-<p><img align="center" src="https://profile-counter.glitch.me/{Prasanna-kalathy}/count.svg" /></p><br>
+## Number Of Visitors   <p><img align="center" src="https://profile-counter.glitch.me/{Prasanna-kalathy}/count.svg" /></p><br>
 </div>
 <div align="center">
 
@@ -25,7 +24,7 @@
  
 </div>
 
-![snake gif](https://github.com/Prasanna-Kalathy/Prasanna-Kalathy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
  
  
 <br>
