@@ -2,7 +2,7 @@
 
 # Hey<img src="https://media.giphy.com/media/ZCGiYQPSdpcB2ks3pG/giphy.gif" width="50">
 
-<!-- ![snake gif](https://github.com/Prasanna-Kalathy/Prasanna-Kalathy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
+![snake gif](https://github.com/Prasanna-Kalathy/Prasanna-Kalathy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 <!-- <br>  -->
  
 ## Connect with me 👇🏻
